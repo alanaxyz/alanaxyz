@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou a Alana! 👋
 
-<!--
-**alanaxyz/alanaxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação com foco em desenvolvimento **Full Stack**. No momento, estou praticando a construção de aplicações completas, cuidando desde a interface no Front-end até a estrutura de Back-end e bancos de dados.
 
-Here are some ideas to get you started:
+### 🚀 O que estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** HTML5, CSS3 (FlexBox e Grid), JavaScript, TypeScript, React e Next.js.
+- **Estilização:** Tailwind CSS.
+- **Back-end:** Node.js, APIs e Prisma (ORM).
+- **Banco de Dados:** MySQL e MongoDB.
+- **Infraestrutura:** Docker e versionamento com GIT.
+
+### 🎯 Foco atual:
+Consolidar a lógica de programação com JavaScript para avançar com segurança nos frameworks e tecnologias do curso.
+
+---
