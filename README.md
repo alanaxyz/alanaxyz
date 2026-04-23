@@ -14,7 +14,7 @@ Sempre buscando evoluir e criar projetos cada vez mais completos.
 
 <br>
 
-<img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="48%" align="left" alt="Ilustração" style="margin-right: 20px;">
+<img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="50%" align="left" alt="Ilustração" style="margin-right: 20px;">
 
 <div align="center">
 
