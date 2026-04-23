@@ -1,59 +1,59 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FAB5CF&height=200&section=header&text=Olá,%20sou%20a%20Alana!%20👋&fontSize=50&animation=fadeIn" />
-</div>
+<img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif)" width="120px" align="right">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=F2E9E4&center=false&vCenter=true&width=500&lines=Olá,+eu+sou+a+Alana!;Full+Stack+in+progress..." />
+
 
 ## 💻 Sobre mim
 
-Estudante de **Ciência da Computação** focada em desenvolvimento **Full Stack**. Atualmente, dedico meu tempo à construção de aplicações completas, explorando desde interfaces modernas no **Front-end** até arquiteturas robustas de **Back-end** e **bancos de dados**.
+Estudante de **Ciência da Computação** focada em desenvolvimento **Full Stack**. Atualmente, dedico meu tempo à construção de aplicações completas, explorando desde interfaces modernas no **Front-end** até arquiteturas robustas de **Back-end** e **Banco de dados**. 
+
+Sempre buscando evoluir e criar projetos cada vez mais completos.
 
 ---
 
-### 🛠️ Tecnologias & Toolbox
+### 🛠️ Tecnologias que estou estudando
+
+<br>
+
+<img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="48%" align="left" alt="Ilustração" style="margin-right: 20px;">
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <strong>🎨 Front-end</strong><br><br>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
-      </td>
-      <td width="50%" align="center">
-        <strong>⚙️ Back-end</strong><br><br>
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white">
-      </td>
-    </tr>
-  </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--end-Estilização%20e%20Interface-FAB5CF?style=flat-square&logoColor=white" />
+</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+<br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Back--end-Dados%20e%20Infraestrutura-FAB5CF?style=flat-square&logoColor=white" />
+</p>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,mongodb,docker,git" />
+
+<br><br>
+
+ <i>Atualmente estou me aprofundando em <b>JavaScript</b> para dominar lógica e frameworks.</i>
+
 </div>
 
 ---
 
-### 📊 Estatísticas e Desempenho
+### 📊 Atividade
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alanaxyz&theme=tokyonight&background=0D1117&border=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF1493&sideLabels=F0F6FC" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanaxyz&theme=neon&background=0D1117&ring=FAB5CF&fire=FAB5CF&currStreakNum=FAB5CF&sideLabels=F0F6FC&stroke=FAB5CF&dates=F0F6FC" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🎯 Foco Atual & Aprendizado
+<br>
 
-- 🚀 **JavaScript & Logic:** Refinando fundamentos para dominar frameworks modernos.
-
+  <div align="center">
+  <img src="https://giffiles.alphacoders.com/146/14695.gif" width="150px">
+</div>
+<br>
 <div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Status-Learning-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack-white?style=for-the-badge" />
-  <br><br>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-JAVASCRIPT-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL_STACK-444444?style=for-the-badge" />
 </div>
