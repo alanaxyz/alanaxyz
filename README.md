@@ -1,4 +1,7 @@
-<img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://i.pinimg.com/originals/e6/20/83/e62083244f28ed2024a09ac52db6bceb.gif)" width="120px" align="right">
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycnFldm9ycGliNWVnNW9rb3ZwcWZsajg5NWV3NHVkNGd3b3ZoZHp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/source.gif" width="160px">
+  
+  <br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=F2E9E4&center=false&vCenter=true&width=500&lines=Olá,+eu+sou+a+Alana!;Full+Stack+in+progress..." />
 
 
