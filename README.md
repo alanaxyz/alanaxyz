@@ -32,7 +32,7 @@ Sempre buscando evoluir e criar projetos cada vez mais completos.
 
 <br><br>
 
- <i>Atualmente estou me aprofundando em <b>JavaScript</b> para dominar lógica e frameworks.</i>
+ <i>No momento, estou me aprofundando em <b>JavaScript</b> para dominar lógica e frameworks.</i>
 
 </div>
 
