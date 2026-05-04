@@ -7,7 +7,7 @@
 
 ## 💻 Sobre mim
 
-Estudante de **Ciência da Computação** focada em desenvolvimento **Full Stack**. Atualmente, dedico meu tempo à construção de aplicações completas, explorando desde interfaces modernas no **Front-end** até arquiteturas robustas de **Back-end** e **Banco de dados**. 
+Estudante de **Ciência da Computação** focada em desenvolvimento **Full Stack**. Atualmente, dedico meu tempo à construção de aplicações completas, explorando desde interfaces modernas no **Front-end** até arquiteturas robustas de **Back-end** e **Banco de dados**.  
 
 Sempre buscando evoluir e criar projetos cada vez mais completos.
 
