@@ -35,7 +35,7 @@ Sempre buscando evoluir e criar projetos cada vez mais completos.
 
 <br><br>
 
- <i>No momento, estou me aprofundando em <b>JavaScript</b> para dominar lógica e frameworks.</i>
+ <i>No momento, venho expandindo meus conhecimentos em JavaScript e TypeScript, focando em lógica avançada, APIs e desenvolvimento backend robusto.</i>
 
 </div>
 
@@ -63,6 +63,6 @@ Sempre buscando evoluir e criar projetos cada vez mais completos.
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING-JAVASCRIPT-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-TYPESCRIPT-3178C6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCUS-FULL_STACK-444444?style=for-the-badge" />
 </div>
