@@ -24,7 +24,7 @@ Sempre buscando evoluir e criar projetos cada vez mais completos.
 <p align="center">
   <img src="https://img.shields.io/badge/Front--end-Estilização%20e%20Interface-FAB5CF?style=flat-square&logoColor=white" />
 </p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind" />
 
 <br><br>
 
