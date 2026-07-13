@@ -63,6 +63,7 @@ Sempre buscando evoluir e criar projetos cada vez mais completos.
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LEARNING-NEXT.JS-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEARNING-TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/FOCUS-FULL_STACK-444444?style=for-the-badge" />
 </div>
