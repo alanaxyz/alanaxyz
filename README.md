@@ -35,7 +35,7 @@ Sempre buscando evoluir e criar projetos cada vez mais completos.
 
 <br><br>
 
- <i>No momento, venho expandindo meus conhecimentos em **React**, focando na criação de interfaces dinâmicas, gerenciamento de estado e componentização, integrando com um ecossistema Full Stack robusto.</i>
+ <i>No momento, venho expandindo meus conhecimentos em Next.js e Tailwind CSS, focando no desenvolvimento de layouts modernos, design responsivo e componentização eficiente para aplicações Web estruturadas.</i>
 
 </div>
 
